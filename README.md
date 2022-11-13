@@ -34,7 +34,7 @@
 
    * EDA,
    * исследование зависимостей и формулирование гипотез, feature engineering,
-   * построение моделей классификации (KNeighborsClassifier, DecisionTreeClassifier, RandomForestClfssifier, LogisticRegression, SVC):
+   * построение моделей классификации (KNeighborsClassifier, DecisionTreeClassifier, RandomForestClfssifier, LogisticRegression, SVC), в том числе:
      - препроцессинг: масштабирование, кодировка,
      - определение лучших параметров моделей с помощью GridSearchCV,
    * сравнение качества моделей (accuracy_score, recall_score, roc_auc_score).
